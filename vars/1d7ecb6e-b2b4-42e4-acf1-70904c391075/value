@@ -1,0 +1,1 @@
+chip_active && pressedButton1 && !pressedButton2 && !pressedButton3

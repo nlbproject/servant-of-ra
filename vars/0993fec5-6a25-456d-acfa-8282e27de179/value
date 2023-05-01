@@ -1,1 +1,1 @@
-chip_active
+chip_active && !pressedButton1
