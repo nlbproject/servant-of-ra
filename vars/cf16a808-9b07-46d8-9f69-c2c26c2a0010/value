@@ -1,1 +1,1 @@
-codeValue == 3.83
+codeDiff > -0.1 && codeDiff < 0.1
