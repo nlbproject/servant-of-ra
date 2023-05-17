@@ -1,1 +1,1 @@
-!wasUnconscious || (codeDigit != 3 && codeDigit != 8)
+!wasUnconscious || !inhumanDigit
